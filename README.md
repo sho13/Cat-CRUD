@@ -1,5 +1,5 @@
-# Codecademy-CRUD
-## Codecademy-CRUD is a RESTful API that allows users to upload and manage cat pictures. The API supports the following operations:
+# Cat-CRUD
+## Cat-CRUD is a RESTful API that allows users to upload and manage cat pictures. The API supports the following operations:
 
 - Upload a cat pic.
 - Delete a cat pic.
@@ -20,8 +20,8 @@ Swagger is used for OpenAPI documentation.
 ### Installation
 
 ```
-git clone https://github.com/sho13/codecademy-crud.git
-cd codecademy-crud
+git clone https://github.com/sho13/cat-crud.git
+cd cat-crud
 ```
 **Install dependencies**:
 
